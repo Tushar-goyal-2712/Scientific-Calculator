@@ -1,0 +1,189 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    top: 0%;
+    margin: 0%;
+    padding: 0px;
+}
+
+.topbar {
+    width: 100%;
+    background-color: rgb(27, 25, 25);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+
+.left div {
+    padding: 10px 15px;
+}
+
+.left div a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.left div a img{
+    width: 20px;
+    filter: invert(100%);
+}
+
+.left div:hover {
+    background-color: red;
+}
+
+#fb {
+    border-left: 1px solid red;
+}
+
+#inst {
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+}
+
+#in {
+    border-right: 1px solid red;
+}
+
+.middle {
+    margin: 0px;
+    display: flex;
+}
+
+.middle div {
+    padding: 0px 10px;
+}
+
+.middle div a {
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+.middle div a:hover {
+    color: red;
+}
+
+.middle div img{
+    width: 20px;
+}
+.right {
+    margin: 0px;
+    display: flex;
+}
+
+.right div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 3px;
+    height: 30px;
+    width: 100px;
+    font-size: 17px;
+    border-radius: 50px;
+    border: 1px solid red;
+    background-color: black;
+}
+
+.right div a {
+    text-decoration: none;
+    color: white;
+}
+
+.right button:hover {
+    font-weight: bold;
+}
+#btnnl{
+    background-color: white;
+}
+#btnnl a{
+    color: black;
+}
+#btnnd:hover {
+    font-weight: bold;
+    border: 3px solid red;
+}
+
+#btnnl:hover {
+    font-weight: bold;
+    border: 3px solid red;
+}
+
+.calc {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+#box {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+    background-color: white;
+    display: inline-block;
+}
+
+input {
+    text-align: right;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 260px;
+    height: 100px;
+    font-size: 30px;
+}
+
+button {
+    border: none;
+    font-size: 30px;
+    height: 60px;
+    width: 60px;
+
+}
+
+.nbtn {
+    background-color: white;
+    color: black;
+}
+
+.obtn {
+    background-color: white;
+    color: orangered;
+}
+
+.exb {
+    background-color: white;
+    display: none;
+    font-size: 18px;
+    color: gray;
+}
+
+#equal {
+    background-color: orangered;
+    color: black;
+    border-radius: 100%;
+}
+
+#equal:hover {
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: silver;
+}
+
+@media screen and (max-width: 850px) {
+    .middle {
+        display: none;
+    }
+}
