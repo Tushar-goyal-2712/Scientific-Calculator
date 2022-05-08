@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Scientific Calculator
 
-Clone of cineflix website
+Scientific calculator with dark and light mode
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Cineflix Clone Website Link](https://scientific-calculator-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Scientific-Calculator.git
 ```
 
 Install node_module dependencies
