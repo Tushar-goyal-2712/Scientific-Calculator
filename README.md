@@ -7,7 +7,7 @@ Scientific calculator with dark and light mode
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://scientific-calculator-by-tushar.netlify.app/)
+[Calculator Link](https://scientific-calculator-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -34,7 +34,7 @@ Visit [Local Host](http://localhost/)
 
 ## 📍 Screenshots
 
-![](https://github.com/Tushar-goyal-2712/Cineflix-Website-clone/blob/5b833a3d516c89b04d52bfa75f07d59ad6ff6b08/Screenshots/cineflix-movie.png)
+![](https://github.com/Tushar-goyal-2712/Scientific-Calculator/blob/59270159de00c4fab28e18398d206fca2741fa87/Screenshots/design.png)
 
 ## 📍 Deployment
 
